@@ -1,0 +1,22 @@
+{
+  "name": "js-spectrum-test",
+  "version": "1.0.0",
+  "description": "playing around with browser-based audio analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theemadnes/js-spectrum-test.git"
+  },
+  "author": "alex.mattson@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theemadnes/js-spectrum-test/issues"
+  },
+  "homepage": "https://github.com/theemadnes/js-spectrum-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
